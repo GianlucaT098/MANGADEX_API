@@ -1,0 +1,42 @@
+    img{
+    width: 40%;
+    border-radius: 2%;
+    margin-top: 2px;
+    border: 1px solid black;
+    }
+    
+    #manga{
+        display: flex;
+        flex-direction: column;
+        justify-content:center;
+        align-items:center;
+        margin-top: 20px;
+
+    }
+    
+    #search_results
+    {
+        display: flex;
+        flex-direction: column;
+        justify-content:center;
+        align-items:center;
+        text-align: center;
+    
+    }
+
+    form{
+        text-align: center;
+    }
+
+    a{
+        margin-top: 20px;
+        color: black;
+        background-color: rgba(0, 0, 0, 0.1);
+        display: inline-block;
+        padding: 5px;border: 1px solid gray;
+    }
+
+    body{
+        font-family: 'Roboto', sans-serif;
+        background-color:rgba(56, 163, 140, 0.349) ;
+    }
